@@ -1,0 +1,7 @@
+/**
+ * Skipped minification because the original files appears to be already minified.
+ * Original file: /npm/@studyportals/tooltip-dll@2.0.0/dist/tooltip.css
+ *
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+.Tooltip{bottom:100%;box-sizing:border-box;font-size:.75rem;font-weight:400;line-height:1rem;padding:10px;z-index:75}.Tooltip,.Tooltip .TooltipArrow{left:50%;position:absolute;transform:translateX(-50%)}.Tooltip .TooltipArrow{border-left:.3rem solid transparent;border-right:.3rem solid transparent;border-top:.5rem solid #05293c;bottom:calc(-.5rem + 10px);height:0;width:0}.Tooltip.Bottom{bottom:auto}.Tooltip.Bottom .TooltipArrow{border-bottom:.5rem solid #05293c;border-top:none;bottom:auto;top:calc(-.5rem + 10px)}.Tooltip.Bottom .TooltipInner{box-shadow:0 -4px 8px rgba(63,92,110,.15)}.Tooltip.Guidance .TooltipInner{padding:1rem 4rem 1rem 1rem}.Tooltip .TooltipInner{background:#05293c;border-radius:.5rem;box-shadow:0 4px 8px rgba(63,92,110,.15);box-sizing:border-box;color:#fff;display:block;max-width:calc(100vw - 20px);padding:1rem;position:relative;text-align:left;width:280px}.Tooltip .TooltipInner .TooltipClose{align-items:center;background:none;border:0;color:#fff;cursor:pointer;display:flex;font-size:1.2rem;justify-content:center;outline:none;padding:.5rem;position:absolute;right:1rem;top:50%;transform:translateY(-50%)}.Tooltip .TooltipInner a{color:#fff;font-weight:700}
